@@ -1,0 +1,42 @@
+#instance010_001.txt
+#area [0, MAX_X] x [0, MAX_Y]
+1000	1000
+#number of points NUM_PT
+10
+#coordinates
+396	970
+753	464
+20	266
+148	34
+254	367
+437	788
+565	960
+553	329
+513	322
+996	437
+#end of instance
+
+# edges of the MST by Prim's algorithm:
+7  1  179
+6  1  223
+9  6  542
+8  9  47
+5  9  304
+2  8  335
+10  2  270
+3  5  335
+4  3  360
+#total weight of the MST by Prim's algorithm is 2595
+# layouts of the edges of the MST by Prim's algorithm:
+(396, 970) --> (565, 970) --> (565, 960)
+(396, 970) --> (437, 970) --> (437, 788)
+(437, 788) --> (437, 322) --> (513, 322)
+(513, 322) --> (513, 329) --> (553, 329)
+(553, 329) --> (753, 329) --> (753, 464)
+(753, 464) --> (753, 437) --> (996, 437)
+(513, 322) --> (254, 322) --> (254, 367)
+(254, 367) --> (254, 266) --> (20, 266)
+(20, 266) --> (148, 266) --> (148, 34)
+# Total weight of the MST is 2595
+# Total overlap of the layout is 317
+# reduction is 0.12

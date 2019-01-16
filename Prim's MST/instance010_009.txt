@@ -1,0 +1,17 @@
+#instance010_009.txt
+#area [0, MAX_X] x [0, MAX_Y]
+1000	1000
+#number of points NUM_PT
+10
+#coordinates
+413	581
+237	225
+615	549
+725	357
+687	237
+722	614
+584	945
+114	146
+905	446
+795	786
+#end of instance

@@ -1,0 +1,17 @@
+#instance010_007.txt
+#area [0, MAX_X] x [0, MAX_Y]
+1000	1000
+#number of points NUM_PT
+10
+#coordinates
+381	425
+439	542
+442	821
+336	375
+941	584
+531	513
+121	344
+312	810
+743	448
+513	364
+#end of instance
